@@ -20,6 +20,7 @@ RoxygenNote: 7.1.1
 Imports: 
     stringr,
     janitor,
-    tibble
+    tibble,
+    readr
 Suggests: 
     testthat
