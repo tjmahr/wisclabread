@@ -1,2 +1,3 @@
 # wisclabread 🍞
-Functions for parsing and reading data files in our lab
+
+Functions for reading and parsing data files in our lab.
