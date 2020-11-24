@@ -30,9 +30,10 @@ You can install the development version of wisclabread from
 # install.packages("devtools")
 devtools::install_github("tjmahr/wisclabread")
 ```
-## Example
+## Perceptual learning files
 
-This is a basic example which shows you how to solve a common problem:
+`read_wtocs_in_perceptual_learning()` will read in the WTOCS portion of a
+`perceptual_learning` file and return a tibble.
 
 ```{r example}
 library(wisclabread)

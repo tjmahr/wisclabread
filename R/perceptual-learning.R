@@ -32,13 +32,15 @@ read_wtocs_in_perceptual_learning <- function(path) {
 
   stopifnot(nrow(data) == wtocs_count)
 
-  # Add the filename as the first column
+  # Add the filename and other info as the leading columns
+  info <- str_parse_wisclab_filename(path)
   tibble::add_column(
     data,
     .file = basename(path),
+    child = info$child,
+    control_file_num = info$control_file_num,
     .before = 1
   )
-
 }
 
 
