@@ -1,0 +1,96 @@
+wtocs first
+wtocs count	37
+wtocs 1/3	0.23
+wtocs 2/3	0.17
+wtocs 3/3	0.33
+TPC 1/3	0.45
+TPC 2/3	0.46
+TPC 3/3	0.52
+Word	Correct 1	Correct 2	Separation
+Hot	False	False	5
+Bow	False	False	7
+Bad	False	False	16
+Rock	False	False	19
+Pan	False	False	11
+Lock	True	True	4
+Repeat Total	Repeat 1	Repeat 2
+Intelligibility	0.17	0.17
+TPC	0.47	0.53
+Sentence	Correct 1	Correct 2	Separation
+Gather the toys	False	False	24
+That is her dog	False	False	23
+Cut two small pieces	False	False	18
+Point to teddy	False	False	21
+Put these together	True	True	17
+Open the house	False	False	11
+Repeat Total	Repeat 1	Repeat 2
+Intelligibility	0.17	0.17
+TPC	0.50	0.52
+Word	Response	Correct	TPC	SVwl	MVwl	MVwlA	SCon	MCon	MConA	Articulation
+Snow	uh	False	0.00	1.00	0.00	0.00	2.00	0.00	0.00	2.79
+Hoot	oops	False	0.00	1.00	0.00	0.00	2.00	0.00	0.00	3.14
+Boy	boy	True	1.00	1.00	1.00	1.00	1.00	1.00	1.00	3.02
+Hot	up	False	0.00	1.00	0.00	0.00	2.00	0.00	0.00	1.95
+Type	let's	False	0.33	1.00	0.00	0.00	2.00	0.00	1.00	2.05
+Top		False	0.00	1.00	0.00	0.00	2.00	0.00	0.00	1.93
+Mud	mutt	False	0.67	1.00	1.00	1.00	2.00	1.00	1.00	3.10
+Sheet	sneak	False	0.33	1.00	1.00	1.00	2.00	0.00	0.00	2.25
+Come	come	True	1.00	1.00	1.00	1.00	2.00	2.00	2.00	2.78
+Wait	white	False	0.67	1.00	0.00	0.00	2.00	2.00	2.00	5.20
+Ball	bomb	False	0.33	1.00	0.00	0.00	2.00	1.00	1.00	4.85
+Bow	pope	False	0.50	1.00	1.00	1.00	1.00	0.00	0.00	4.32
+Buddy	buddy	True	1.00	2.00	2.00	2.00	2.00	2.00	2.00	4.01
+Beanie	mini	False	0.25	2.00	0.00	0.00	2.00	1.00	1.00	4.58
+Bad	pay up	False	0.00	1.00	0.00	0.00	2.00	0.00	0.00	3.37
+Rock	walk	False	0.33	1.00	0.00	0.00	2.00	1.00	1.00	3.71
+Bus	fuss	False	0.67	1.00	1.00	1.00	2.00	1.00	1.00	4.47
+Pan	pants	False	1.00	1.00	1.00	1.00	2.00	2.00	2.00	4.58
+Chew	chore	False	0.50	1.00	0.00	0.00	1.00	1.00	1.00	3.39
+Lock	lock	True	1.00	1.00	1.00	1.00	2.00	2.00	2.00	5.46
+Toys	place	False	0.00	1.00	0.00	0.00	2.00	0.00	0.00	4.31
+Zoo	saw	False	0.00	1.00	0.00	0.00	1.00	0.00	0.00	3.77
+House	ox	False	0.33	1.00	0.00	0.00	2.00	1.00	1.00	4.01
+Hat	yak	False	0.33	1.00	1.00	1.00	2.00	0.00	0.00	2.45
+Walk	walk	True	1.00	1.00	1.00	1.00	2.00	2.00	2.00	2.20
+Seat	seat	True	1.00	1.00	1.00	1.00	2.00	2.00	2.00	5.00
+Boot	bullet	False	0.67	1.00	0.00	0.00	2.00	2.00	2.00	1.99
+No	no	True	1.00	1.00	1.00	1.00	1.00	1.00	1.00	3.16
+Jar	die	False	0.00	1.00	0.00	0.00	2.00	0.00	0.00	4.59
+Eat	eat	True	1.00	1.00	1.00	1.00	1.00	1.00	1.00	5.25
+Gum	come	False	0.67	1.00	1.00	1.00	2.00	1.00	1.00	4.39
+Bee	beat	False	1.00	1.00	1.00	1.00	1.00	1.00	1.00	5.67
+Full	wow	False	0.00	1.00	0.00	0.00	2.00	0.00	0.00	3.09
+Big	face	False	0.00	1.00	0.00	0.00	2.00	0.00	0.00	2.47
+Pipe	bike	False	0.33	1.00	1.00	1.00	2.00	0.00	0.00	5.65
+Whip		False	0.00	1.00	0.00	0.00	2.00	0.00	0.00	1.51
+Yawn	yawn	True	1.00	1.00	1.00	1.00	2.00	2.00	2.00	3.19
+Word	Response	Correct	TPC	SVwl	MVwl	MVwlA	SCon	MCon	MConA
+Gather the toys	Get him the toys	False	0.67	4.00	2.00	2.00	5.00	4.00	4.00
+Baby sock	Baby Zack	False	0.71	3.00	2.00	2.00	4.00	3.00	3.00
+That is her dog	Got the	False	0.30	4.00	0.00	0.00	6.00	1.00	3.00
+She chewed her fingers	Toes and fingers	False	0.54	5.00	2.00	2.00	8.00	5.00	5.00
+Take his turn	Good night	False	0.22	3.00	0.00	0.00	6.00	0.00	2.00
+Cut two small pieces	Get to my faces	False	0.43	5.00	1.00	1.00	9.00	5.00	5.00
+Point to teddy	Where's the daddy	False	0.20	4.00	0.00	1.00	6.00	1.00	1.00
+Cowboy boots	food	False	0.12	3.00	1.00	1.00	5.00	0.00	0.00
+Living room	Living room	True	1.00	3.00	3.00	3.00	5.00	5.00	5.00
+Five more cookies	I want cookies	False	0.55	4.00	3.00	3.00	7.00	3.00	3.00
+Bird house	More power	False	0.17	2.00	1.00	1.00	4.00	0.00	0.00
+Tie those shoes	Try to says	False	0.50	3.00	1.00	2.00	5.00	2.00	2.00
+Get off	Ah	False	0.00	2.00	0.00	0.00	3.00	0.00	0.00
+Put these together	Put these together	True	1.00	5.00	5.00	5.00	7.00	7.00	7.00
+Hug daddy	Look daddy	False	0.57	3.00	2.00	2.00	4.00	2.00	2.00
+Find the brown lid	Behind the basket	False	0.54	4.00	3.00	3.00	9.00	4.00	4.00
+Jump over the box	Just open the pop	False	0.62	5.00	4.00	4.00	8.00	2.00	4.00
+That's not white	I don't like	False	0.30	3.00	1.00	1.00	7.00	1.00	2.00
+Open the house	I want help	False	0.33	4.00	0.00	0.00	5.00	1.00	3.00
+Say goodbye	Thank you bye	False	0.29	3.00	1.00	1.00	4.00	1.00	1.00
+He likes potato chips	He like potatoes	False	0.69	6.00	5.00	5.00	10.00	6.00	6.00
+Both faces are happy	Puppy's happy	False	0.36	6.00	2.00	2.00	8.00	3.00	3.00
+She could hide here	It's a eye	False	0.09	4.00	1.00	1.00	7.00	0.00	0.00
+Big potato	Baked potato	False	0.78	4.00	3.00	3.00	5.00	4.00	4.00
+Pull his tooth	What this	False	0.22	3.00	1.00	1.00	6.00	0.00	1.00
+Animal crackers	Animal crackers	True	1.00	5.00	5.00	5.00	7.00	7.00	7.00
+Doctor bag	Not too big	False	0.50	3.00	1.00	1.00	5.00	3.00	3.00
+Wear a cowboy hat	Wake up fire	False	0.18	5.00	0.00	0.00	6.00	1.00	2.00
+Make a birdhouse	We could put it down	False	0.30	4.00	1.00	1.00	6.00	0.00	2.00
