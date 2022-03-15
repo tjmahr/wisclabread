@@ -21,6 +21,6 @@ Imports:
     stringr,
     janitor,
     tibble,
-    readr
+    readr (>= 2.0.0)
 Suggests: 
     testthat

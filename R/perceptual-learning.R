@@ -27,7 +27,7 @@ read_wtocs_in_perceptual_learning <- function(path) {
     pattern_end <- "Word\tResponse\tCorrect.*"
   )
 
-  data <- readr::read_tsv(lines[wtocs_line_numbers])
+  data <- readr::read_tsv(I(lines[wtocs_line_numbers]))
   data <- janitor::clean_names(data)
 
   stopifnot(nrow(data) == wtocs_count)
